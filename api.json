@@ -1,0 +1,401 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/siren",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "siren",
+    "name": "Siren",
+    "aliases": [
+      {
+        "name": "Sirens",
+        "language": "Greek",
+        "meaning": "plural form"
+      },
+      {
+        "name": "Seirenes",
+        "language": "Ancient Greek"
+      },
+      {
+        "name": "Mermaid",
+        "meaning": "Later conflation with fish-tailed beings"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Greek Mythology",
+    "tags": [
+      "mythological",
+      "greek",
+      "bird-woman",
+      "mermaid",
+      "song",
+      "temptation",
+      "deadly",
+      "maritime"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "Greek mythological creatures who lure sailors to their deaths with enchanting songs. Originally depicted as bird-women, later conflated with mermaids in post-classical tradition.",
+      "full": "Sirens are dangerous creatures from Greek mythology who lured sailors to shipwreck on rocky coasts with their irresistibly beautiful singing. In original Greek tradition, sirens were depicted as bird-women (similar to harpies but beautiful singers rather than snatchers), combining a woman's head with a bird's body. Later artistic tradition, particularly from the medieval period onward, conflated them with mermaids, depicting them as fish-tailed women. The sirens inhabited rocky islands or coastlines, particularly the Sirenum scopuli (Siren Rocks). Their enchanting songs promised knowledge and pleasure but led to destruction. The most famous encounters include Odysseus, who had his crew plug their ears with wax and tied himself to the mast to hear the song safely, and Orpheus, who out-sang them with his lyre. According to some traditions, sirens would die if a sailor successfully resisted their song. They symbolize temptation, dangerous allure, and fatal distraction, with 'siren song' entering modern language as a metaphor for irresistible but dangerous temptation."
+    },
+    "etymology": {
+      "origin": "From Greek 'Seirēn,' etymology uncertain, possibly from 'seira' (rope/cord) suggesting binding or entangling",
+      "meaning": "Possibly 'those who bind' or 'those who ensnare'",
+      "first_use": "Ancient Greek mythology"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Hybrid",
+      "subtype": "Bird-woman (original) / Mermaid (later)",
+      "variant": "Greek"
+    },
+    "related_phenomena": [
+      {
+        "id": "harpy",
+        "name": "Harpy",
+        "relationship": "similar",
+        "description": "Also bird-women in Greek mythology but snatchers rather than singers"
+      },
+      {
+        "id": "mermaid",
+        "name": "Mermaid",
+        "relationship": "conflated",
+        "description": "Later artistic tradition merged sirens with fish-tailed mermaids"
+      },
+      {
+        "id": "nymph",
+        "name": "Nymph",
+        "relationship": "related",
+        "description": "Female nature spirits in Greek mythology"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "original_greek": "Bird-women with woman's head/upper body and bird's body/wings",
+      "later_depiction": "Fish-tailed mermaids with woman's upper body",
+      "features": [
+        {
+          "feature": "Beautiful voices",
+          "description": "Enchanting, irresistible singing ability",
+          "frequency": "always"
+        },
+        {
+          "feature": "Woman's head and face",
+          "description": "Beautiful female human features",
+          "frequency": "always"
+        },
+        {
+          "feature": "Bird body (original)",
+          "description": "Wings and bird lower body in Greek tradition",
+          "frequency": "original depiction"
+        },
+        {
+          "feature": "Fish tail (later)",
+          "description": "Mermaid-like tail in medieval and later art",
+          "frequency": "later depiction"
+        },
+        {
+          "feature": "Musical instruments",
+          "description": "Sometimes depicted with lyres or flutes",
+          "frequency": "occasional"
+        }
+      ],
+      "morphology": "Original: Hybrid bird-women. Later evolution: Fish-tailed mermaids. Transformation represents conflation of different mythological traditions."
+    },
+    "abilities": [
+      {
+        "ability": "Irresistible song",
+        "description": "Enchanting singing that compels sailors to approach",
+        "frequency": "always",
+        "evidence_level": "mythology"
+      },
+      {
+        "ability": "Knowledge of past and future",
+        "description": "Some accounts credit them with prophetic knowledge",
+        "frequency": "occasional",
+        "evidence_level": "mythology"
+      },
+      {
+        "ability": "Flight (original)",
+        "description": "Ability to fly with bird wings",
+        "frequency": "original depiction",
+        "evidence_level": "mythology"
+      },
+      {
+        "ability": "Swimming (later)",
+        "description": "Aquatic movement in mermaid form",
+        "frequency": "later depiction",
+        "evidence_level": "mythology"
+      }
+    ],
+    "behavior": {
+      "activity_period": "continuous",
+      "disposition": "hostile (lure to death)",
+      "habitat": "Rocky islands and coastlines (Sirenum scopuli)",
+      "patterns": [
+        "Sing enchanting songs to passing sailors",
+        "Lure ships to crash on rocks",
+        "Promise knowledge, pleasure, or homecoming",
+        "Die if sailor successfully resists their song (some traditions)"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Greek mythology; particularly associated with specific locations in Mediterranean",
+      "continents": ["Europe"],
+      "regions": [
+        "Mediterranean Sea",
+        "Strait of Messina (traditional location)",
+        "Southern Italy coast"
+      ]
+    },
+    "notable_locations": [
+      {
+        "name": "Sirenum scopuli",
+        "description": "The Siren Rocks",
+        "traditional_location": "Near Strait of Messina or Capri",
+        "notes": "Rocky islands where sirens were said to dwell"
+      },
+      {
+        "name": "Anthemoessa",
+        "description": "Flowery island",
+        "notes": "Another traditional location for sirens"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "c. 800 BCE",
+        "circa": true,
+        "source": "Homer's Odyssey"
+      },
+      "mythological_period": "Greek mythological age"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Greek mythology; origins possibly as death spirits or souls of the dead",
+      "earliest_accounts": "Homer's Odyssey (8th century BCE)",
+      "evolution": "Transformed from bird-women to fish-tailed mermaids in medieval period"
+    },
+    "timeline": [
+      {
+        "date": "c. 800 BCE",
+        "event": "Homer's Odyssey",
+        "significance": "Famous account of Odysseus and the Sirens",
+        "source": "Odyssey Book XII"
+      },
+      {
+        "date": "c. 3rd century BCE",
+        "event": "Apollonius of Rhodes - Argonautica",
+        "significance": "Account of Orpheus outsinging the sirens",
+        "source": "Argonautica"
+      },
+      {
+        "date": "Medieval period",
+        "event": "Conflation with mermaids",
+        "significance": "Sirens begin to be depicted as fish-tailed rather than bird-bodied",
+        "source": "Medieval bestiaries and art"
+      }
+    ],
+    "famous_encounters": [
+      {
+        "hero": "Odysseus",
+        "method": "Had crew plug ears with wax; tied himself to mast to hear song safely",
+        "outcome": "Successfully passed sirens; heard their song without dying",
+        "source": "Homer's Odyssey"
+      },
+      {
+        "hero": "Orpheus and the Argonauts",
+        "method": "Orpheus played his lyre and sang, drowning out siren song",
+        "outcome": "Argonauts sailed past safely; sirens defeated by superior music",
+        "source": "Apollonius's Argonautica"
+      }
+    ]
+  },
+
+  "mythology": {
+    "odyssey_account": {
+      "description": "Odysseus warned by Circe about the sirens",
+      "siren_promise": "Knowledge of all that happens on earth; promise to make him wiser",
+      "odysseus_strategy": "Crew ears plugged with beeswax; Odysseus tied to mast",
+      "song_content": "Promised Odysseus glory and knowledge if he stopped",
+      "outcome": "Odysseus heard song but ship passed safely"
+    },
+    "orpheus_account": {
+      "description": "Argonauts encountered sirens on their voyage",
+      "strategy": "Orpheus played lyre and sang to overpower siren song",
+      "outcome": "Sirens defeated by superior music; some traditions say sirens died or threw themselves into sea"
+    },
+    "death_tradition": {
+      "belief": "Sirens would die if sailor successfully resisted their song",
+      "basis": "Defeat meant failure of their purpose"
+    }
+  },
+
+  "evidence": {
+    "textual": [
+      {
+        "type": "epic poetry",
+        "name": "Odyssey",
+        "author": "Homer",
+        "date": "c. 8th century BCE",
+        "description": "Famous account of Odysseus and the sirens",
+        "status": "classical text"
+      },
+      {
+        "type": "epic poetry",
+        "name": "Argonautica",
+        "author": "Apollonius of Rhodes",
+        "date": "3rd century BCE",
+        "description": "Orpheus and the sirens",
+        "status": "classical text"
+      }
+    ],
+    "artistic": [
+      {
+        "type": "pottery",
+        "name": "Greek vases",
+        "date": "5th-4th century BCE",
+        "description": "Depictions of bird-women sirens with Odysseus",
+        "status": "museum collections"
+      },
+      {
+        "type": "medieval art",
+        "name": "Bestiaries and manuscripts",
+        "date": "Medieval period",
+        "description": "Sirens depicted as mermaids",
+        "status": "museum and library collections"
+      }
+    ]
+  },
+
+  "theories": {
+    "symbolic_interpretations": [
+      {
+        "name": "Temptation and distraction",
+        "description": "Sirens represent dangerous temptations that lead to destruction",
+        "evidence_cited": ["Beautiful song leads to death", "Must resist to survive"]
+      },
+      {
+        "name": "Dangerous knowledge",
+        "description": "Represent forbidden or dangerous knowledge that destroys those who seek it",
+        "evidence_cited": ["Promise of knowledge", "Fatal to those who listen"]
+      },
+      {
+        "name": "Death spirits",
+        "description": "Originally may have been spirits of death or psychopomps",
+        "evidence_cited": ["Association with death", "Bird form (souls as birds)", "Island of the dead"]
+      },
+      {
+        "name": "Maritime hazards",
+        "description": "Personification of dangerous coastal rocks and currents",
+        "evidence_cited": ["Rocky island habitat", "Shipwreck association", "Strait of Messina location"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "symbolism": {
+      "ancient": [
+        "Temptation and dangerous allure",
+        "Fatal distraction from duty/goal",
+        "Forbidden knowledge",
+        "Maritime danger",
+        "Death and the afterlife"
+      ],
+      "modern": [
+        "Irresistible but dangerous temptation ('siren song')",
+        "Seductive danger",
+        "Warning signal (emergency sirens)",
+        "Femme fatale archetype"
+      ]
+    },
+    "popular_culture": {
+      "literature": [
+        "Homer's Odyssey (classical)",
+        "Countless references in Western literature",
+        "Modern fantasy featuring sirens/mermaids",
+        "Margaret Atwood's 'Siren Song' (poetry)"
+      ],
+      "film_tv": [
+        "O Brother, Where Art Thou? (2000) - Odyssey adaptation",
+        "Pirates of the Caribbean: On Stranger Tides (2011)",
+        "Siren (TV series, 2018-2020)",
+        "Numerous fantasy and maritime films"
+      ],
+      "music": [
+        "Debussy's 'Sirènes'",
+        "Countless songs referencing sirens or siren songs",
+        "Metal and rock band imagery"
+      ],
+      "other": [
+        "Starbucks logo (mermaid/siren)",
+        "Emergency warning sirens (named for loud sound)",
+        "Maritime and nautical imagery"
+      ]
+    },
+    "linguistic_legacy": {
+      "siren_song": "Metaphor for irresistible but dangerous temptation or appeal",
+      "usage": "Common in political, business, and cultural commentary"
+    }
+  },
+
+  "sources": [
+    {
+      "id": "homer-odyssey",
+      "type": "classical text",
+      "title": "Odyssey",
+      "authors": ["Homer"],
+      "date": "c. 8th century BCE"
+    },
+    {
+      "id": "apollonius-argonautica",
+      "type": "classical text",
+      "title": "Argonautica",
+      "authors": ["Apollonius of Rhodes"],
+      "date": "3rd century BCE"
+    },
+    {
+      "id": "grimal-1996",
+      "type": "book",
+      "title": "The Dictionary of Classical Mythology",
+      "authors": ["Pierre Grimal"],
+      "publication": "Wiley-Blackwell",
+      "date": "1996",
+      "isbn": "978-0631201021"
+    },
+    {
+      "id": "hansen-2002",
+      "type": "book",
+      "title": "Ariadne's Thread: A Guide to International Tales Found in Classical Literature",
+      "authors": ["William F. Hansen"],
+      "publication": "Cornell University Press",
+      "date": "2002",
+      "isbn": "978-0801475726"
+    }
+  ]
+}
