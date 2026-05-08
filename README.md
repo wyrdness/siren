@@ -1,287 +1,176 @@
 # Siren
 
-> *"Come closer, and hear the song..."*
+> Sirens are mythological singers of Greek tradition, originally depicted as bird-women whose irresistible song lures sailors to their deaths on rocky islands of the western Mediterranean. From the early medieval period the figure was progressively conflated with the fish-tailed mermaid; modern usage encompasses both forms.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-mythological-purple)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `siren` |
 | **Category** | MYTHOLOGICAL_CREATURE |
-| **Classification** | Greek Mythology / Bird-woman (original) / Mermaid (later) |
-| **First Recorded** | c. 800 BCE (Homer's Odyssey) |
-| **Primary Region** | Mediterranean Sea |
-| **Status** | Mythological |
+| **Subcategory** | Bird-woman (classical) / fish-tailed mermaid (medieval) |
+| **First recorded** | Late 8th century BCE |
+| **Primary range** | Greek and Roman literary geography places the sirens in the western Mediterranean, principally off the Tyrrhenian and Campanian coasts of Italy |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Sirens are dangerous creatures from Greek mythology who lured sailors to their deaths with irresistibly beautiful singing. In original Greek tradition, sirens were depicted as **bird-women** (similar to harpies but beautiful singers rather than snatchers), combining a woman's head with a bird's body.
-
-Later artistic tradition, particularly from the medieval period onward, conflated them with **mermaids**, depicting them as fish-tailed women. This transformation represents one of the most significant evolutions in mythological imagery.
-
-The sirens inhabited rocky islands or coastlines, particularly the **Sirenum scopuli** (Siren Rocks). Their enchanting songs promised knowledge and pleasure but led to destruction.
-
-They symbolize temptation, dangerous allure, and fatal distraction, with "**siren song**" entering modern language as a metaphor for irresistible but dangerous temptation.
+The Sirens (Greek Σειρῆνες, Seirênes) are mythological singers of ancient Greek tradition, daughters in most accounts of the river-god Achelous and one of the Muses (Terpsichore, Melpomene, or Calliope) and companions of Persephone before her abduction. In the earliest literature — Homer's Odyssey (book 12) — they sing from a meadow piled with the bones of sailors; Odysseus has himself bound to the mast and his crew's ears stopped with beeswax to pass them safely. In Apollonius of Rhodes' Argonautica (3rd century BCE) Orpheus drowns out their song with his lyre to save the Argonauts. From the 7th century BCE onwards, they appear in Greek vase-painting and sculpture as bird-women — the body and feathered legs of a bird and the head and torso of a woman — and were widely associated with funerary art. Roman poets located their islands as the Sirenum scopuli, variously identified with the Galli/Li Galli islets off the Sorrentine coast, the Sirenuse near Paestum, Capreae (Capri), or Cape Pelorum. Named individuals include Parthenope (whose tomb was held to be the legendary foundation of Naples), Ligeia, Leucosia, Thelxiope/Thelxiepeia, Molpe, Peisinoe, Aglaope, and Himerope; the number varies between two and eight by source. From the early Middle Ages — most clearly in the Anglo-Latin Liber Monstrorum (8th century) — sirens were progressively redrawn as fish-tailed sea-women, the form that dominates in medieval bestiaries, the Physiologus, and Romance-language descendants of the word ('sirena' as 'mermaid'). The phrase 'siren song' has entered modern languages as the standard metaphor for an irresistible but destructive temptation.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Σειρήν | Ancient Greek (singular: Seirḗn) |  |
+| Σειρῆνες | Ancient Greek (plural: Seirênes) |  |
+| Sirena | Latin / Romance (descendant) |  |
+| Parthenope | Greek | named siren whose tomb was the legendary foundation of Naples |
+| Ligeia | Greek | named siren ('clear-toned') |
+| Leucosia | Greek | named siren ('white substance') |
+| Thelxiepeia / Thelxiope | Greek | named siren ('enchanting voice') |
 
-### Primary Name
-- **Siren** — From Greek "Seirēn," etymology uncertain, possibly from "seira" (rope/cord) suggesting binding or entangling (Possibly "those who bind" or "those who ensnare")
+## Etymology
 
-### Alternative Names
-
-| Name | Language | Meaning |
-|------|----------|---------|
-| Sirens | Greek | Plural form |
-| Seirenes | Ancient Greek | Original Greek form |
-| Mermaid | Later conflation | Fish-tailed beings |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: MYTHOLOGICAL_CREATURE
-├── Type: Hybrid
-├── Subtype: Bird-woman (original) / Mermaid (later)
-└── Variant: Greek
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Harpy](/harpy) | Similar | Also bird-women in Greek mythology but snatchers rather than singers |
-| Mermaid | Conflated | Later artistic tradition merged sirens with fish-tailed mermaids |
-| Nymph | Related | Female nature spirits in Greek mythology |
+- **Origin**: Greek Σειρήν (Seirḗn), of disputed pre-Greek origin; possibly connected to a root meaning 'to bind / entangle' (cf. seirá, 'rope').
+- **Meaning**: The 'binder' or 'entangler'; figuratively, the singer whose voice binds the listener.
+- **First use**: Homer, Odyssey (Book 12) — late 8th century BCE oral composition; written redaction archaic period.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Harpy](../harpy/) — _similar_: Greek bird-woman of less aesthetic and more violent character
+- [Mermaid](../mermaid/) — _counterpart_: Northern European fish-tailed sea-woman with which the medieval siren image was conflated
+- [Rusalka](../rusalka/) — _similar_: Slavic water-spirit luring men to drown
+- [Lorelei](../lorelei/) — _similar_: Rhenish singing rock-spirit luring boatmen
+- [Naga (women)](../naga/) — _similar_: South-Asian water-being with comparable hybrid forms
 
-### Physical Description
+---
+## Physical Description
 
-**Original Greek**: Bird-women with woman's head/upper body and bird's body/wings  
-**Later Depiction**: Fish-tailed mermaids with woman's upper body
+- **Coloration**: feathered (classical), scaled (medieval mermaid form)
+- **Morphology**: Composite hybrid; the classical bird-woman form is iconographically stable in archaic and classical Greek art, while the medieval fish-tailed form is dominant in Romance-language tradition.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Beautiful voices | Enchanting, irresistible singing ability | Always |
-| Woman's head and face | Beautiful female human features | Always |
-| Bird body (original) | Wings and bird lower body in Greek tradition | Original depiction |
-| Fish tail (later) | Mermaid-like tail in medieval and later art | Later depiction |
-| Musical instruments | Sometimes depicted with lyres or flutes | Occasional |
+|---|---|---|
+| Bird-woman composite (classical) | From the 7th century BCE: a woman's head and torso on a bird's body with feathered legs and clawed feet. | always |
+| Fish-tailed body (medieval) | From the 8th century CE: a woman's torso joined to a fish's tail, in line with the medieval mermaid image. | common |
+| Beautiful song | Possessed of an irresistibly beautiful voice; sometimes also depicted with musical instruments. | always |
+| Two to eight in number | The canonical number varies by source between two and eight individuals. | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Irresistible song | Enchanting singing that compels sailors to approach | Mythology |
-| Knowledge of past and future | Some accounts credit them with prophetic knowledge | Mythology |
-| Flight (original) | Ability to fly with bird wings | Mythology (original) |
-| Swimming (later) | Aquatic movement in mermaid form | Mythology (later) |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Enchanting song | An irresistible song that lures listeners — particularly sailors — to wreck or to leap overboard. | always | folklore |
+| Knowledge offered as bait | In Homer the sirens promise that they know all that has happened on earth — knowledge being the lure as much as beauty. | common | folklore |
+| Death by being heard / passed | Tradition held that the sirens would die if a passing sailor resisted their song; some sources say this fate was sealed when Odysseus passed (or when Orpheus outsang them). | common | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Habitat**: Rocky islands and coastlines (Sirenum scopuli)
-- **Disposition**: Hostile (lure to death)
-- **Patterns**:
-  - Sing enchanting songs to passing sailors
-  - Lure ships to crash on rocks
-  - Promise knowledge, pleasure, or homecoming
-  - Die if sailor successfully resists their song (some traditions)
+- **Activity**: diurnal
+- **Disposition**: aggressive
+- **Social structure**: family_group
+- **Habitat**: rocky islands, Tyrrhenian Sea coastal islets, Sirenum scopuli, Galli / Li Galli islets, Sirenuse near Paestum
+- **Diet**: Implicit in classical accounts: their meadow is piled with the bones of victims
 
 ---
+## Distribution
 
-## Geographic Distribution
+Greek and Roman literary geography places the sirens in the western Mediterranean, principally off the Tyrrhenian and Campanian coasts of Italy. The medieval mermaid-siren is much more widely distributed across European bestiary geography.
 
-### Location
+### Hotspots
 
-**Traditional Locations**:
-- **Sirenum scopuli** (The Siren Rocks): Near Strait of Messina or Capri
-- **Anthemoessa** (Flowery island): Another traditional location
-
-**Region**: Mediterranean Sea, particularly associated with the Strait of Messina and Southern Italy coast
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Galli / Li Galli (Sirenum scopuli) | Campania (Sorrentine Peninsula), Italy |  | Classical and Roman antiquity |
+| Sirenuse / Sirenusae | Campania, Italy |  | Roman period |
+| Naples (legendary tomb of Parthenope) | Campania, Italy |  | Pre-Roman / Roman period |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-**Cultural Roots**: Greek mythology; origins possibly as death spirits or souls of the dead  
-**Evolution**: Transformed from bird-women to fish-tailed mermaids in medieval period
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| c. 800 BCE | Homer's Odyssey | Famous account of Odysseus and the Sirens |
-| c. 3rd century BCE | Apollonius of Rhodes - Argonautica | Account of Orpheus outsinging the sirens |
-| Medieval period | Conflation with mermaids | Sirens begin to be depicted as fish-tailed rather than bird-bodied |
-
----
-
-## Famous Encounters
-
-### Odysseus and the Sirens ⭐
-
-> **Hero**: Odysseus  
-> **Warning**: Circe warned him about the sirens  
-> **Strategy**: Crew ears plugged with beeswax; Odysseus tied to mast  
-> **Siren Promise**: Knowledge of all that happens on earth; promise to make him wiser  
-> **Outcome**: Odysseus heard song but ship passed safely
-
-**Song Content**: The sirens promised Odysseus glory and knowledge if he stopped.
-
-This is the most famous siren encounter in mythology, demonstrating both the irresistible nature of their song and the possibility of resistance through clever strategy.
-
----
-
-### Orpheus and the Argonauts
-
-> **Hero**: Orpheus (with the Argonauts)  
-> **Strategy**: Orpheus played lyre and sang to overpower siren song  
-> **Outcome**: Sirens defeated by superior music; some traditions say sirens died or threw themselves into sea
-
-**Significance**: Demonstrates that the sirens could be defeated not just by avoidance but by superior artistry.
-
----
-
-## The Death Tradition
-
-According to some Greek traditions, **sirens would die if a sailor successfully resisted their song**. Their defeat meant the failure of their purpose, potentially leading to their destruction.
-
----
-
-## Symbolism & Interpretation
-
-### Ancient Symbolism
-
-1. **Temptation and Distraction**: Represent dangerous temptations that lead to destruction
-2. **Dangerous Knowledge**: Represent forbidden or dangerous knowledge that destroys those who seek it
-3. **Death Spirits**: Originally may have been spirits of death or psychopomps (guides to the afterlife)
-4. **Maritime Hazards**: Personification of dangerous coastal rocks and currents
-
-### Modern Symbolism
-
-- **Irresistible temptation**: "Siren song" = irresistible but dangerous appeal
-- **Seductive danger**: Femme fatale archetype
-- **Warning signal**: Emergency sirens (named for loud sound)
-
----
-
-## Popular Culture
-
-**Literature**:
-- Homer's *Odyssey* (classical)
-- Countless references in Western literature
-- Modern fantasy featuring sirens/mermaids
-- Margaret Atwood's "Siren Song" (poetry)
-
-**Film/TV**:
-- *O Brother, Where Art Thou?* (2000) - Odyssey adaptation
-- *Pirates of the Caribbean: On Stranger Tides* (2011)
-- *Siren* (TV series, 2018-2020)
-- Numerous fantasy and maritime films
-
-**Music**:
-- Debussy's "Sirènes"
-- Countless songs referencing sirens or siren songs
-- Metal and rock band imagery
-
-**Other**:
-- **Starbucks logo** (mermaid/siren)
-- **Emergency warning sirens** (named for loud sound)
-- Maritime and nautical imagery
-
----
-
-## Linguistic Legacy
-
-### "Siren Song"
-
-The phrase "**siren song**" has become a common metaphor in English:
-
-**Meaning**: An irresistible but dangerous temptation or appeal
-
-**Usage**: Common in political, business, and cultural commentary to describe alluring but potentially harmful propositions
-
-**Example**: "The siren song of easy money led many investors to ruin."
-
----
+|---|---|---|
+| Late 8th century BCE | Homer's Odyssey describes the encounter with the sirens (Book 12) | Earliest extant literary attestation |
+| 3rd century BCE | Apollonius of Rhodes describes Orpheus outsinging the sirens in the Argonautica | Major Hellenistic literary treatment |
+| c. 1st century BCE / 1st century CE | Apollodorus's Bibliotheca lists named sirens and their parentage (Achelous and a Muse) | Standard mythographic genealogy |
+| 8th century CE | Anglo-Latin Liber Monstrorum describes sirens with women's bodies and fish tails | Earliest clear textual attestation of the fish-tailed siren |
+| 12th century | Sirens regularly figure in medieval bestiaries derived from the Physiologus | Consolidation of the medieval siren-mermaid as Christian moral allegory |
 
 ## Evidence
 
-### Textual Sources
+### Documentary
 
-- **Homer's Odyssey** (c. 8th century BCE): Famous account of Odysseus and the sirens
-- **Apollonius of Rhodes' Argonautica** (3rd century BCE): Orpheus and the sirens
-
-### Artistic Evidence
-
-- **Greek vases** (5th-4th century BCE): Depictions of bird-women sirens with Odysseus
-- **Medieval art** (Medieval period): Sirens depicted as mermaids in bestiaries and manuscripts
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Homer, Odyssey, Book 12 | Late 8th century BCE | Earliest extant description of the sirens and their luring song. | verified |
+| Apollonius of Rhodes, Argonautica 4.891–921 | 3rd century BCE | Encounter of the Argonauts with the sirens, who are outsung by Orpheus. | verified |
+| Greek vase-paintings of sirens (7th–5th centuries BCE) | 7th–5th centuries BCE | Stable visual tradition of the bird-woman siren in Attic and other Greek black- and red-figure vase-painting. | verified |
 
 ---
+## Theories & Explanations
 
-## Sources & References
+### Skeptical
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
+**Mythological / literary figure** _(Walter Burkert, Emily Vermeule, Hugo Rahner)_
 
-### Primary Sources
+The Sirens are a mythological figure of Greek and Mediterranean tradition; classical scholarship treats them as a literary and cultural construct rather than as a description of any real species.
 
-- Homer. *Odyssey* (c. 8th century BCE)
-- Apollonius of Rhodes. *Argonautica* (3rd century BCE)
-- Grimal, P. (1996). *The Dictionary of Classical Mythology*
-- Hansen, W.F. (2002). *Ariadne's Thread: A Guide to International Tales Found in Classical Literature*
+**Misidentification of seals or dugongs (mermaid form only)** _(Various 19th–20th-century natural-history writers)_
 
----
+Some commentators have suggested that the medieval mermaid-siren image was reinforced by sailors' encounters with seals, dugongs, and manatees in unfamiliar seas; this hypothesis bears on the medieval/modern siren-as-mermaid only and not on the classical Greek bird-woman.
 
-## API Reference
 
-Machine-readable data is available in [`api.json`](api.json).
+## Popular Culture
 
-### Direct Access
+**Literature**: Homer, Odyssey (Book 12); Apollonius of Rhodes, Argonautica; Apollodorus, Bibliotheca; Margaret Atwood, 'Siren Song' (poem, 1974); Hugo Rahner, Greek Myths and Christian Mystery (1957/1963)
 
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/siren/main/api.json
-```
+**Film / TV**: O Brother, Where Art Thou? (Coen Brothers, 2000) — siren scene; Numerous adaptations of the Odyssey on film
 
----
+**Music**: Tim Buckley, 'Song to the Siren' (1970); Numerous classical and operatic settings of the Odyssey siren scene
 
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+**Other**: Order Sirenia (manatees, dugongs) in zoology, named for the sirens; The Greek-coffee-chain Starbucks logo (a stylised twin-tailed mermaid-siren)
 
 ---
+## Research
 
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Walter Burkert | University of Zurich | Foundational scholarship on Greek religion and myth, including discussion of the sirens | 1960s–2010s |
+| Emily Vermeule | Harvard University | Scholarship on Greek funerary art and the iconography of the sirens | 1960s–2000s |
+| Hugo Rahner | University of Innsbruck | Greek Myths and Christian Mystery — siren chapter | 1957/1963 |
+
+### Organizations
+
+- [Theoi.com](https://www.theoi.com/Pontios/Seirenes.html) — Source-collection website on Greek mythology including the sirens
+
+Continuing work in classical philology and art history examines the iconographic transition from bird-woman to fish-tailed mermaid and the siren's role in funerary art.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Full API](api.json) • [Sources](SOURCES.md)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
